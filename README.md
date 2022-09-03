@@ -1,4 +1,7 @@
 # Bladimir Flores
+1
+2
+3
 
 _Hola, bienvenidos soy desarrollador Full Stack Java._
 _Desarrollo de aplicaciones Web: HTML, CSS, JavaScript._
