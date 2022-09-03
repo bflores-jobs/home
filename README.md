@@ -1,9 +1,6 @@
 # Bladimir Flores
-1
-2
-3
 
-_Hola, bienvenidos soy desarrollador Full Stack Java._
+_Hola, bienvenidos soy desarrollador Full Stack Java.
 _Desarrollo de aplicaciones Web: HTML, CSS, JavaScript._
 _Modelo Vista Controlador (MVC)._
 _Programación Orientada a Objetos (POO)._
